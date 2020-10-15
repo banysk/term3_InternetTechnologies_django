@@ -1,0 +1,1 @@
+web: gunicorn bossofthisgym.wsgi --log-file -
