@@ -26,7 +26,10 @@ SECRET_KEY = 'bk9@ulh*ws46rrx8vkx8=646on$s&46ke_z#&su(a&rji*_==n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bossofthisgym.herokuapp.com']
+ALLOWED_HOSTS = [
+    'bossofthisgym.herokuapp.com',
+    'notbossofthisgym.herokuapp.com'
+]
 
 
 # Application definition
