@@ -27,7 +27,7 @@ SECRET_KEY = 'bk9@ulh*ws46rrx8vkx8=646on$s&46ke_z#&su(a&rji*_==n'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'notbossofthisgym.herokuapp.com',
+    'bossofthisgym.herokuapp.com'
 ]
 
 
