@@ -27,9 +27,12 @@ SECRET_KEY = 'bk9@ulh*ws46rrx8vkx8=646on$s&46ke_z#&su(a&rji*_==n'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    #FOR MAIN APP
     'bossofthisgym.herokuapp.com',
     #FOR LOCAL MACHINE
-    '127.0.0.1'
+    '127.0.0.1',
+    #FOR TEST APP
+    'notbossofthisgym.herokuapp.com',
 ]
 
 
