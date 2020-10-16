@@ -28,6 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'bossofthisgym.herokuapp.com',
+    #FOR LOCAL MACHINE
+    '127.0.0.1'
 ]
 
 
